@@ -5,5 +5,5 @@ by xinlu he
  
  
 ## in class practice
--prj1{Untitled0.ipynb}
+-[prj1](Untitled0.ipynb)
  
