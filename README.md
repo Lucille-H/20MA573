@@ -3,3 +3,7 @@ by xinlu he
 
  hw1 is going to be here
  
+ 
+## in class practice
+-Untitled0.ipynb
+ 
