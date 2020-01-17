@@ -5,5 +5,5 @@ by xinlu he
  
  
 ## in class practice
--[prj1](Untitled0.ipynb)
+-[prj1](class1/python_notebook_ipynb.ipynb)
  
